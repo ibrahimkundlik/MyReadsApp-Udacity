@@ -1,6 +1,6 @@
 # MyReads: Book Tracking App
 
-A [React.js]() bookshelf app that allows you to select and categorize books you have read, are currently reading, or want to read.
+A [React.js](https://reactjs.org/) bookshelf app that allows you to select and categorize books you have read, are currently reading, or want to read.
 
 ## Installation and Launch
 
